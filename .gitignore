@@ -18,7 +18,7 @@ doc/*.txt
 
 # NuGet Packages Directory #
 ############################
-packages
+
 
 
 ## Ignore Visual Studio temporary files, build results, and
@@ -30,17 +30,8 @@ packages
 *.sln.docstates
 
 # Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-bld/
-[Bb]in/
-[Oo]bj/
+/bin/
+/obj/
 
 #Ignore other folders
-/GIT_Solutions_RK/EAP
-/GIT_Solutions_RK/MiniEAP
-/GIT_Solutions_RK/protractor-net
+
